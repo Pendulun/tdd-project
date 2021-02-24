@@ -1,0 +1,4 @@
+1) - O Teste Funcional é praticamente um Teste de Integração já que uma funcionalidade do programa pode exigir vários métodos e classes diferentes, enquanto o Teste de Unidade foca em um método único.
+
+2) - O Teste Funcional é mais lento e custoso do que o Teste de Unidade já que ele utiliza mais classes 
+do programa ao invés de apenas um método.
